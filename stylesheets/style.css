@@ -17,7 +17,7 @@
 html,
 body {
   height: 100%;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 body {
@@ -73,7 +73,7 @@ h3 {
 
 .cards-container {
   display: flex;
-  padding: 0 18rem;
+  padding: 0 15rem;
 }
 .cards-container .blue {
   border-top: 4px solid #549ef2;
