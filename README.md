@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/marckesin/four-card-feature-section/badge)](https://www.codefactor.io/repository/github/marckesin/four-card-feature-section) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
+
 # Frontend Mentor - Four card feature section solution
 
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
