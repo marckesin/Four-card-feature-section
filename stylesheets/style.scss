@@ -21,10 +21,10 @@ h3 {
 .attribution {
   font-size: 11px;
   text-align: center;
-}
 
-.attribution a {
-  color: hsl(228, 45%, 44%);
+  a {
+    color: hsl(228, 45%, 44%);
+  }
 }
 
 .cards-container {
@@ -66,11 +66,11 @@ h3 {
       color: $grayish-blue;
       font-size: 0.7rem;
     }
-  }
 
-  .card:hover {
-    cursor: pointer;
-    transform: translateY(-7px);
+    &:hover {
+      cursor: pointer;
+      transform: translateY(-7px);
+    }
   }
 
   .col-card {
